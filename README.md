@@ -8,7 +8,7 @@ Assume you are developing an ecommers platfrom you need to display all of your p
 
 card should display:- 
 - product image
-- product name 
+- product name   
 - price
 - View product button
 
